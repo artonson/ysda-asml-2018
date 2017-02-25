@@ -1,2 +1,5 @@
-# shad-asml-course
-Source files for the Yandex Data School course "Applied statistics in machine learning"
+# Прикладная статистика в машинном обучении
+
+В этом репозитории содержатся исходные файлы к курсу [Школы Анализа данных](https://yandexdataschool.ru)
+"Прикладная статистика в машинном обучении".
+
